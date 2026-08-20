@@ -13,4 +13,4 @@
 
 [<img align="left" alt="jonathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [www.linkedin.com/in/jonathan-tse-83529b3a4](https://www.linkedin.com/in/jonathan-tse-83529b3a4/)
+[linkedin]: https://www.linkedin.com/in/jonathan-tse-83529b3a4/
